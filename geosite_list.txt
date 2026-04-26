@@ -1,0 +1,23 @@
+| geosite:apple | Домены Apple (App Store, iCloud, Apple Music и т.д.) |
+| geosite:category-ads | Рекламные сети и трекеры |
+| geosite:category-geoblock-ru | Сайты, заблокированные в России |
+| geosite:category-ru | Российские сайты (гос. сервисы, банки, популярные RU-ресурсы) |
+| geosite:epicgames | Epic Games (лаунчер, магазин, Fortnite) |
+| geosite:escapefromtarkov | Escape from Tarkov (серверы и сайты игры) |
+| geosite:faceit | FACEIT (платформа для CS2 и других игр) |
+| geosite:github | GitHub |
+| geosite:google-deepmind | Google DeepMind |
+| geosite:google-play | Google Play |
+| geosite:microsoft | Microsoft (Azure, Office, Windows Update и т.д.) |
+| geosite:origin | EA Origin / EA App |
+| geosite:pinterest | Pinterest |
+| geosite:private | Локальные и приватные адреса (localhost, LAN) |
+| geosite:riot | Riot Games (League of Legends, Valorant) |
+| geosite:steam | Steam (Valve, SteamCDN, игровые серверы) |
+| geosite:telegram | Telegram |
+| geosite:torrent | Торрент-трекеры |
+| geosite:twitch | Twitch |
+| geosite:twitch-ads | Рекламные домены Twitch |
+| geosite:whitelist | Белый список (доверенные домены) |
+| geosite:win-spy | Домены телеметрии и слежки Windows |
+| geosite:youtube | YouTube |
